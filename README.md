@@ -1,5 +1,5 @@
 ## Hi, I'm Linny!
-I'm a software engoineer by day with a passion for development, cybersecurity, art, and music.
+I'm a software engineer by day with a passion for development, cybersecurity, art, and music.
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JS, C#, Java, Python, Bash, JavaScript, HTML/CSS, SQL, Awk
