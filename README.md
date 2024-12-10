@@ -1,10 +1,10 @@
 ## Hi, I'm Linny!
-I'm a cybersecurity buff by day with a passion for development, art, and music.
+I'm a software engoineer by day with a passion for development, cybersecurity, art, and music.
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, Java, Python, Bash, JavaScript, HTML/CSS, SQL, Awk
-- **Tools:** Visual Studio, VS Code, Git, Azure DevOps, Linux
-- **Frameworks:** .NET
+- **Languages:** PHP, JS, C#, Java, Python, Bash, JavaScript, HTML/CSS, SQL, Awk
+- **Tools:** PHPStorm, Visual Studio, VS Code, Git, Azure DevOps, Linux, GraphQL
+- **Frameworks:** .NET, Vue
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/stefenie-pickston)
