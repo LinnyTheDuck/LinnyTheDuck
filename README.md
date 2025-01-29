@@ -2,8 +2,8 @@
 I'm a software engineer by day with a passion for development, cybersecurity, art, and music.
 
 ## 🛠️ Tech Stack
-- **Languages:** PHP, JS, C#, Java, Python, Bash, JavaScript, HTML/CSS, SQL, Awk
-- **Tools:** PHPStorm, Visual Studio, VS Code, Git, Azure DevOps, Linux, GraphQL
+- **Languages:** PHP, Ruby, JS, C#, Java, Python, Bash, JavaScript, HTML/CSS, SQL, Awk
+- **Tools:** PHPStorm, Vim, Visual Studio, VS Code, Git, Azure DevOps, Linux, GraphQL
 - **Frameworks:** .NET, Vue
 
 ## 📫 Connect with Me
